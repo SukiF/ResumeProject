@@ -1,7 +1,7 @@
 body{
   font-family: Helvetica, sans-serif;
   border-bottom: 1px dotted;
-
+  margin: 0 10% 0 10%;
 
 }
 h1{
@@ -30,7 +30,7 @@ h3{
   color: #52527a;
   font-size: 14px;
   text-decoration: underline dotted;
-text-align: center;
+  text-align: center;
 }
 h4{
   color: #52527a;
